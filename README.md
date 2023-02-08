@@ -8,4 +8,4 @@ By sharing code in this repository, we hope to increase transparency, reproducib
 
 We encourage all members of the Banich Lab to contribute to this repository by uploading their code, documentation, and any other relevant materials. If you have questions or suggestions for this repository, please reach out to the repository maintainers.
 
-Let's work together to advance our understanding of adolescent brain development!
+Let's work together to advance our understanding of child and adolescent brain development!

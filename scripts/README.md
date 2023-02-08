@@ -4,4 +4,4 @@ The purpose of this directory is to provide a centralized location for all code 
 
 It is important that all code uploaded to this directory is thoroughly documented. This includes, but is not limited to, clear explanations of the purpose and functionality of the code, descriptions of inputs and outputs, and any relevant notes or comments.
 
-We encourage all members of the ABCD research team to contribute to this directory by uploading their code, documentation, and any other relevant materials. If you have questions or suggestions for this directory, please reach out to the repository maintainers.
+All members of the Banich lab are encouraged to contribute to this directory by uploading their code, documentation, and any other relevant materials. If you have questions or suggestions for this directory, please reach out to the repository maintainers.
